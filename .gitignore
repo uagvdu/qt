@@ -1,0 +1,3 @@
+*.o
+build-*-Debug
+build-*-Release
